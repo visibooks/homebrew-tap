@@ -1,6 +1,6 @@
 cask "visibooks" do
-  version "0.4.0"
-  sha256 "948ecc6d20f2704e05c65fc2a6416696220a4792ee36cbe1d344b74544d8169c"
+  version "0.5.0"
+  sha256 "eaa81acc72373ef7b980c3d1195dff2289c60a65a4cc3c6e5a531047a1cbe1bd"
 
   url "https://github.com/visibooks/visibooks-releases/releases/download/v#{version}/VisiBooks-macOS-universal.dmg"
   name "VisiBooks"
